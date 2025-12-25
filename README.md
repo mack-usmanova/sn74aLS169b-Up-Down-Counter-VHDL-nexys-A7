@@ -120,3 +120,6 @@ Clock:
 
 ### XDC pin mapping
 ![XDC pin mapping](assets/xdc_pin_mapping.png)
+
+## Demo video
+I also have a video uploaded above showing the project functioning.
